@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [asyncawait (v1.0.6)](https://github.com/yortus/asyncawait) [![npm package](https://img.shields.io/npm/v/npmtest-asyncawait.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-asyncawait) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-asyncawait.svg)](https://travis-ci.org/npmtest/node-npmtest-asyncawait)",
+    "description": "#### basic test coverage for  [asyncawait (v1.0.6)](https://github.com/yortus/asyncawait)  [![npm package](https://img.shields.io/npm/v/npmtest-asyncawait.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-asyncawait) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-asyncawait.svg)](https://travis-ci.org/npmtest/node-npmtest-asyncawait)",
     "devDependencies": {
         "asyncawait": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

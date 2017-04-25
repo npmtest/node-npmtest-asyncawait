@@ -1,4 +1,7 @@
-# test coverage for  [asyncawait (v1.0.6)](https://github.com/yortus/asyncawait)  [![npm package](https://img.shields.io/npm/v/npmtest-asyncawait.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-asyncawait) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-asyncawait.svg)](https://travis-ci.org/npmtest/node-npmtest-asyncawait)
+# npmtest-asyncawait
+
+#### basic test coverage for  [asyncawait (v1.0.6)](https://github.com/yortus/asyncawait)  [![npm package](https://img.shields.io/npm/v/npmtest-asyncawait.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-asyncawait) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-asyncawait.svg)](https://travis-ci.org/npmtest/node-npmtest-asyncawait)
+
 #### async/await for node.js
 
 [![NPM](https://nodei.co/npm/asyncawait.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/asyncawait)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-asyncawait/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-asyncawait/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-asyncawait/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-asyncawait/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-asyncawait/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-asyncawait/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-asyncawait/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-asyncawait/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-asyncawait/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-asyncawait/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-asyncawait/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-asyncawait/build/coverage.html/index.html)
 
@@ -97,7 +100,8 @@
         "prepublish": "npm run build",
         "test": "mocha"
     },
-    "version": "1.0.6"
+    "version": "1.0.6",
+    "bin": {}
 }
 ```
 
